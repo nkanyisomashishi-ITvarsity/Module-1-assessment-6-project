@@ -1,0 +1,78 @@
+.gallery img{
+	width: 40%;
+}
+
+h2{
+	font-family: Impact, fantasy;
+	text-align: center;
+	font-size: 30px;
+	color: rgb(116, 19, 228);
+	font-style: bold;
+}
+
+p{
+	font-family: helvetica, sans-serif;
+}
+
+#menu{
+	width: 100%;
+	height: 40px;
+	background-color: rgb(57, 214, 141);
+	padding-top: 12px;
+}
+
+#menu a{
+	color: #ffffff;
+	font-family: helvetica, sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: 800;
+	
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#menu a:hover{
+	color: #5077bd;
+}
+	
+h4{
+	font-family: impact, fantasy;
+	text-align:left;
+	font-size: 20px;
+	color: black;
+}
+
+h1{
+	font-family: impact, fantasy;
+	text-align: center;
+	font-size: 60px;
+	color: rgb(55, 98, 190);
+	font-style: bold;
+}
+
+.picture img{
+	width: 30%;
+}
+
+h3{
+	font-family: impact, fantasy;
+	text-align: left;
+	font-size: 30px;
+	color: skyblue;
+	font-style: bold;
+}
+
++th{
+	font-weight:800;
+	background-color: rgb(14, 92, 46);
+	color: turquoise
+}
+
+table{
+	font-family: helvetica, sans-serif;
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: rgb(164, 68, 255);
+}
